@@ -1,3 +1,5 @@
 # Moonshot
 App that lets users learn about the missions and astronauts that formed NASA's Apollo space program.
-![Kik](https://raw.githubusercontent.com/MykytaKh/Moonshot/main/ScreenShots/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202023-09-06%20at%2015.11.10.png)
+<img src="scr1.png" width=300> <img src="scr2.png" width=300>
+
+<img src="scr3.png" width=300> <img src="scr4.png" width=300>

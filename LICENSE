@@ -22,3 +22,9 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+This project is based on lessons from "Hacking with Swift" (https://www.hackingwithswift.com/100/swiftui/), and includes content and examples from those lessons.
+
+Portions of this project include material from Wikipedia, which is released under the Creative Commons Attribution-ShareAlike License (CC-BY-SA) available at https://creativecommons.org/licenses/by-sa/3.0/. The original authors of the Wikipedia content can be found in the page history of the relevant articles.
+
+This project may include materials sourced from NASA, which are considered United States government works and are in the public domain. No copyright or licensing restrictions apply to NASA content.
